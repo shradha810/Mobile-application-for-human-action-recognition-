@@ -1,1 +1,2 @@
 # Mobile-application-for-human-action-recognition-
+The user gives a video input from his/her account in the mobile app and through neural networks; it recognises the exercise being performed in the given video. The model created has alternating convolutional2D and average pooling layers which is followed by bidirectional LSTM layer. Softmax activation function is used for final classification. Accuracy: 96.2%. 
